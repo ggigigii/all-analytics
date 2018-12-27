@@ -1,4 +1,4 @@
-name: "cars"
+  name: "cars"
 output_dir: "docs"
 navbar:
   title: "Cars"
@@ -9,4 +9,4 @@ navbar:
    href: speed-and-distance.html
  output:
   html_document:
-  theme: cosmo
+ theme: cosmo
