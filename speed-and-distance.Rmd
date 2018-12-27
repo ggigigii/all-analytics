@@ -1,5 +1,5 @@
 ---
-title: "test-1"
+title: "Speed and Distance"
 ---
 
 ```{r setup, include=FALSE}
